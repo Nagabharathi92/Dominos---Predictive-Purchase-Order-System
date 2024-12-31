@@ -1,6 +1,7 @@
 # Dominos---Predictive-Purchase-Order-System
 
 Problem Statement
+
 This project focuses on optimizing Domino's inventory management by building a predictive system that forecasts pizza sales and generates purchase orders for ingredients. By leveraging historical sales data, the goal is to develop a model that accurately predicts future sales, allowing Domino's to order the right amount of ingredients, minimizing waste, and preventing stockouts.
 
 Objective:
